@@ -31,10 +31,6 @@
 
 ###
 
-<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIyMDc0MzQsIm5iZiI6MTczMjIwNzEzNCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTIxVDE2Mzg1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlMDBlNDEwZWU2OGVhNzc2ZjQ4YmVjM2RmNTg4OTgxNzJjNzk4MmY0NWMyODg4YWIxNThkMGI3N2E1YmUzYWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.trMynRyHWQnHiRDqcCnph0oO_NSF_YPX9eW8fUrdpH0"  />
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Jonathan-Davi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jonathan-Davi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -45,3 +41,5 @@
 <br clear="both">
 
 ###
+
+<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIyMDc0MzQsIm5iZiI6MTczMjIwNzEzNCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTIxVDE2Mzg1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlMDBlNDEwZWU2OGVhNzc2ZjQ4YmVjM2RmNTg4OTgxNzJjNzk4MmY0NWMyODg4YWIxNThkMGI3N2E1YmUzYWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.trMynRyHWQnHiRDqcCnph0oO_NSF_YPX9eW8fUrdpH0"  />
