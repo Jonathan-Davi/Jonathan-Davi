@@ -73,8 +73,8 @@ const jonathan = {
     location: "Brazil 🇧🇷",
     currentFocus: "Full Stack Development",
     learning: ["Cyber Security"],
-    interests: ["Web Development", "Database Design"],
-    funFact: "I love turning coffee into code! ☕",
+    interests: ["Web Development", "Database Design", "Cyber Security"],
+    hobby: "Gym and Programming",
     askMeAbout: ["Web Dev", "Frontend", "Backend", "Database"]
 };
 ```
