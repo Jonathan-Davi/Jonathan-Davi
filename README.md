@@ -1,98 +1,101 @@
+
+
+Readme · MD
 <div align="center">
-  <img height="150" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEwMDcyNjcsIm5iZiI6MTcyMTAwNjk2NywicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE1VDAwNDI0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2YzdjNGQzOWEzOWQzZWVlNzc0YWYwNDMzYjY2N2NkMWI4NzNkMzE1NGVhYzhlODQ1ZDY4NzFhOGI5MTQwYTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.TvW0gvtsKKN4zI6A1zTEG4-AY5M3lIgJiHCEoRy3LIs" alt="coding gif"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff91a4&height=180&section=header&text=Jonathan%20Davi&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Sistemas%20de%20Informa%C3%A7%C3%A3o%20-%20UFU&descAlignY=52&descSize=16" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=FF91A4&lines=Oi!+Eu+sou+o+Jonathan+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%87%A7%F0%9F%87%B7;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" />
+<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-davi-85a1622a8)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jonathan.davi@hotmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathan.jpg__/)
+![Profile Views](https://komarev.com/ghpvc/?username=Jonathan-Davi&label=Visitas%20no%20perfil&color=ff91a4&style=for-the-badge)
+ 
 </div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jonathan+Davi!;" />
-</h1>
-
-<h3 align="center">🚀 Full Stack Developer from Brazil 🇧🇷</h3>
-
-<div align="center">
-  <a href="mailto:jonathan.davi@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jonathan-davi-85a1622a8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.instagram.com/jonathan.jpg__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="node logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="40" alt="git logo" />
-  <img width="12" />
-      
-
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Davi&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jonathan-Davi&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Jonathan Davi github stats" /> 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-Davi&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=ff91a4&fire=ff91a4&currStreakLabel=ff91a4" alt="Jonathan Davi streak stats"/>
-</div>
-
-<br/>
-
-## 💼 About Me
-
+---
+ 
+## 👨‍💻 Sobre mim
+ 
 ```javascript
 const jonathan = {
-    location: "Brazil 🇧🇷",
-    currentFocus: "Full Stack Development",
-    learning: ["Cyber Security"],
-    interests: ["Web Development", "Database Design", "Cyber Security"],
-    hobby: "Gym and Programming",
-    askMeAbout: ["Web Dev", "Frontend", "Backend", "Database"]
+  local: "Monte Carmelo - MG, Brasil 🇧🇷",
+  formacao: "Sistemas de Informação @ UFU",
+  focoAtual: "Desenvolvimento Full Stack",
+  aprendendo: ["React avançado", "Node.js", "Cyber Security"],
+  interesses: ["Web Development", "Database Design", "Segurança da Informação"],
+  hobbies: ["Academia 🏋️", "Programar 💻"],
+  perguntemeSobre: ["JavaScript", "React", "PHP", "Python", "Banco de Dados"]
 };
 ```
-
-<br/>
-
-## 🎯 Current Goals
-
-- 🔭 I'm currently working on **Full Stack Web Applications**
-- 🌱 I'm currently learning **Advanced React and Node.js**
-- 🔒 I'm currently learning **Cyber Security**
-- 💬 Ask me about **JavaScript, React, Python, and Web Development**
-
-<br/>
-
+ 
+> 🔭 Trabalhando em **aplicações web full stack**
+> 🌱 Estudando **React, Node.js e Cyber Security**
+> 🤝 Aberto a colaborações em projetos open source
+> ⚡ Fato aleatório: código bom é igual treino — consistência vale mais que intensidade
+ 
+---
+ 
+## 🛠️ Tech Stack
+ 
 <div align="center">
-  <h3>🚀 Let's connect and build something amazing together!</h3>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Jonathan-Davi&label=Profile%20views&color=0e75b6&style=flat" alt="Jonathan-Davi" />
-  </p>
+### Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+ 
+### Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ 
+### Back-end & Dados
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+ 
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+ 
 </div>
+---
+ 
+## 🚀 Projetos em destaque
+ 
+<div align="center">
+| Projeto | Descrição | Stack |
+|:--|:--|:--|
+| [**FitTrack**](https://github.com/Jonathan-Davi/FitTrack) | Aplicação web para acompanhamento de treinos e evolução física | `PHP` `MySQL` |
+| [**Controle de Clientes, Produtos e Vendas**](https://github.com/Jonathan-Davi/Estrutura_de_Dados_Final_Controle_de_Clientes_Produtos_Vendas_Lista_Duplamente_Encadeada) | Sistema de gestão construído sobre lista duplamente encadeada — trabalho final de Estrutura de Dados | `C` |
+| [**Trabalho Final POO I**](https://github.com/Jonathan-Davi/Trabalho_Final_POO1) | Projeto aplicando os pilares de orientação a objetos | `Java` |
+| [**TRABALHOFINALPI**](https://github.com/Vilelajlr/TRABALHOFINALPI) | Site desenvolvido em equipe na disciplina de Desenvolvimento de Sites | `PHP` |
+ 
+</div>
+---
+ 
+## 📊 GitHub Analytics
+ 
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jonathan-Davi&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Davi&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<br /><br />
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-Davi&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=ff91a4&fire=ff91a4&currStreakLabel=ff91a4" />
+<br /><br />
+ 
+<img src="https://github-profile-trophy.vercel.app/?username=Jonathan-Davi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+---
+ 
+<div align="center">
+### 💬 Vamos construir algo juntos?
+ 
+Estou sempre aberto a trocar ideia sobre projetos, estudos e oportunidades.
+ 
+[![LinkedIn](https://img.shields.io/badge/Fale%20comigo%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-davi-85a1622a8)
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff91a4,100:0d1117&height=120&section=footer" width="100%" />
+</div>
+ 
