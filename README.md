@@ -30,7 +30,6 @@ const jonathan = {
 - 🔭 Trabalhando em **aplicações web full stack**
 - 🌱 Estudando **React, Node.js e Cyber Security**
 - 🤝 Aberto a colaborações em projetos open source
-- ⚡ Fato aleatório: código bom é igual treino — consistência vale mais que intensidade
 
 ---
 
@@ -90,9 +89,6 @@ const jonathan = {
   <img src="https://streak-stats.demolab.com/?user=Jonathan-Davi&theme=dark&hide_border=true&background=0D1117&ring=ff91a4&fire=ff91a4&currStreakLabel=ff91a4" alt="Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jonathan-Davi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trofeus" />
-</p>
 
 ---
 
